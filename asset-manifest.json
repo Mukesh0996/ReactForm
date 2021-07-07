@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/simpleform/static/css/main.55025619.chunk.css",
-    "main.js": "/simpleform/static/js/main.cd01b648.chunk.js",
-    "main.js.map": "/simpleform/static/js/main.cd01b648.chunk.js.map",
-    "runtime-main.js": "/simpleform/static/js/runtime-main.bf9753d6.js",
-    "runtime-main.js.map": "/simpleform/static/js/runtime-main.bf9753d6.js.map",
-    "static/js/2.7c1ace5f.chunk.js": "/simpleform/static/js/2.7c1ace5f.chunk.js",
-    "static/js/2.7c1ace5f.chunk.js.map": "/simpleform/static/js/2.7c1ace5f.chunk.js.map",
-    "index.html": "/simpleform/index.html",
-    "static/css/main.55025619.chunk.css.map": "/simpleform/static/css/main.55025619.chunk.css.map",
-    "static/js/2.7c1ace5f.chunk.js.LICENSE.txt": "/simpleform/static/js/2.7c1ace5f.chunk.js.LICENSE.txt"
+    "main.css": "/ReactForm/static/css/main.55025619.chunk.css",
+    "main.js": "/ReactForm/static/js/main.cd01b648.chunk.js",
+    "main.js.map": "/ReactForm/static/js/main.cd01b648.chunk.js.map",
+    "runtime-main.js": "/ReactForm/static/js/runtime-main.d5584e67.js",
+    "runtime-main.js.map": "/ReactForm/static/js/runtime-main.d5584e67.js.map",
+    "static/js/2.7c1ace5f.chunk.js": "/ReactForm/static/js/2.7c1ace5f.chunk.js",
+    "static/js/2.7c1ace5f.chunk.js.map": "/ReactForm/static/js/2.7c1ace5f.chunk.js.map",
+    "index.html": "/ReactForm/index.html",
+    "static/css/main.55025619.chunk.css.map": "/ReactForm/static/css/main.55025619.chunk.css.map",
+    "static/js/2.7c1ace5f.chunk.js.LICENSE.txt": "/ReactForm/static/js/2.7c1ace5f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf9753d6.js",
+    "static/js/runtime-main.d5584e67.js",
     "static/js/2.7c1ace5f.chunk.js",
     "static/css/main.55025619.chunk.css",
     "static/js/main.cd01b648.chunk.js"
